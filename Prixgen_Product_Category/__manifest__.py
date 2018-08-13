@@ -11,6 +11,7 @@
     "website": 'https://www.prixgen.com',
     "category": "Invoicing,Products",
     'depends': ['product','purchase','sale','stock'],
+    'images': ['static/description/Banner.png'],
     'data': [
         'views/products.xml',
         'views/purchase.xml',
