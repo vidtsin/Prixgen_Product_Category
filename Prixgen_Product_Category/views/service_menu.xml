@@ -14,6 +14,6 @@
                 </p>
             </field>
         </record>
-        <menuitem id="product_template_action_product_categ_services" name="Services" action="product_template_action_product_categ_service" parent="product_category.menu_stock_inventory_control_by_categories"/>
+        <menuitem id="product_template_action_product_categ_services" name="Services" action="product_template_action_product_categ_service" parent="Prixgen_Product_Category.menu_stock_inventory_control_by_categories"/>
     </data>
 </odoo>
