@@ -6,7 +6,7 @@
     'description': """
         Feature introduced to differentiate between product, service, assets and charges. It has been given an option to configure accordingly at product master level and also helps while selecting the right combination at purchase and sales transaction.
     """,
-    'version': '1.0',
+    'version': '1.1',
     "author": "Prixgen Tech Solutions Pvt.Ltd.",
     "website": 'https://www.prixgen.com',
     "category": "Invoicing,Products",
